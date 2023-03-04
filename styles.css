@@ -1,0 +1,25 @@
+# {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body {
+    background-color: rgb(172, 231, 211);
+}
+.G {
+    color: brown;
+    text-align: center;
+    font-size: 50px;
+}
+.div1 {
+    color:red ;
+}
+.fa-regular {
+    color: brown;
+ }
+.fa-solid {
+    color: orange;
+}
+.GUI {
+    color: brown;
+}
